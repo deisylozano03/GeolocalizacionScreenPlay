@@ -1,0 +1,10 @@
+com/theinternet/herokuapp/automation/userinterface/HomePage.java
+ com.theinternet.herokuapp.automation.userinterface.HomePage
+com/theinternet/herokuapp/automation/tasks/GoTo.java
+ com.theinternet.herokuapp.automation.tasks.GoTo
+com/theinternet/herokuapp/automation/tasks/GoToWhereAmI.java
+ com.theinternet.herokuapp.automation.tasks.GoToWhereAmI
+com/theinternet/herokuapp/automation/userinterface/GeolocationPage.java
+ com.theinternet.herokuapp.automation.userinterface.GeolocationPage
+com/theinternet/herokuapp/automation/questions/Check.java
+ com.theinternet.herokuapp.automation.questions.Check

@@ -1,0 +1,4 @@
+com/theinternet/herokuapp/automation/runners/GeolocationRunner.java
+ com.theinternet.herokuapp.automation.runners.GeolocationRunner
+com/theinternet/herokuapp/automation/stepdefinitions/GeolocationStepDefinition.java
+ com.theinternet.herokuapp.automation.stepdefinitions.GeolocationStepDefinition
